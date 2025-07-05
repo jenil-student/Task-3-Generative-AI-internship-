@@ -1,7 +1,8 @@
 # Markov Chain Text Generator
 
 This is a simple web app for text generation using Markov chains, built with Streamlit and Markovify.
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/dcf5e738-e6f4-47b9-a8ac-92a990b9d7b2)
+
 
 
 ## Features
