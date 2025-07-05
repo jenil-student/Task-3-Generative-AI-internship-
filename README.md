@@ -1,6 +1,8 @@
 # Markov Chain Text Generator
 
 This is a simple web app for text generation using Markov chains, built with Streamlit and Markovify.
+![Uploading image.png…]()
+
 
 ## Features
 - Generates new sentences based on a sample text using a Markov chain model.
